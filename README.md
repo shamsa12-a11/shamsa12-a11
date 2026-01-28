@@ -29,6 +29,6 @@
 
 ## 📊 GitHub Stats
 
-![Shamsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamsa12-a11&show_icons=true&theme=dark)  
+![Shamsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamsa12-a11&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamsa12-a11&layout=compact&theme=dark)
 
